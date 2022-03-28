@@ -16,6 +16,6 @@ Use GMS parser to render the appropriate data file, our example is "output_pelos
 ##### Third
 Use visualize.py to display which stocks were purchased, This uses the max amount to group and sum each ticker. The financial disclosure reports post min and max amounts, visualize.py only sums the max amounts. THESE ARE NOT EXACT AMOUNTS!
 
-- `raw.githubusercontent.com/s1sds28/stockact/master/figure_1.png?sanitize=true&raw=true`
+<img src="figure_1.png">
 
 # NOTE: This is for python practice only and should NOT be used as financial advice.
